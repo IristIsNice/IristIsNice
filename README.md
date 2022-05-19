@@ -1,5 +1,5 @@
 # IristIsNice
-<h1 align="center">Hi 👋, I'm Irist</h1>
+<h2 align="left">Hi 👋, I'm Irist</h2>
 <h3 align="center">A passionate Java developer</h3>
 
 <p align="left">
