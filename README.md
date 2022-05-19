@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👾 ,I am IristIsNice 👾 </h1>
-<h5 align="left">A passionate Java developer</h5>
+<h5 align="left">A passionate Java developer. This github is used to demonstrate the projects I have done.</h5>
+
 
 <p align="left">
 </p>
